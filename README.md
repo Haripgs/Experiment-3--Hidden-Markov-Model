@@ -37,7 +37,9 @@ for t in range(len(observed_sequence)):
   else:
     most_likely_sequence.append("Rainy")
 print("The most likely sequence of weather states is:",most_likely_sequence)```
+
 ## Output:
+
 
 ![image](https://github.com/Haripgs/Experiment-3--Hidden-Markov-Model/assets/118885577/a5bc492f-77d4-41e8-8c33-22562905b795)
 
